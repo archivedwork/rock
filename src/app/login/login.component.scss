@@ -1,0 +1,19 @@
+.form-group-1{
+    margin-bottom: 70px;
+}
+
+.custom-btn{
+    width:100%;
+    background-color: green;
+    border-style: none;
+    border-radius: 0%;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active{
+    background-color: 	darkgreen;
+    border-style: none;
+}
+
+.row{
+    margin-top: 10%;
+}
